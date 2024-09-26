@@ -42,3 +42,30 @@ Commands:
 * [Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 * [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
 * [Coursera-Dockerfile](https://gist.github.com/noahgift/82a34d56f0a8f347865baaa685d5e98d)
+
+
+
+
+
+Poker Simulation
+Lab: Poker Simulator
+Overview
+In this lab, you will investigate the operation of a poker simulation tool and explore improvements that can be made to the interactive simulation to make it more realistic. Additionally, you will reflect on your learnings about constructing help commands for simulation tools.
+
+Goals
+By the end of this lab, you will:
+
+Understand how to construct help commands for simulation tools.
+
+Learn how to analyze and improve the realism of interactive simulations.
+
+Tasks
+1. Investigate tool operation
+Run each of the four commands with, i.e., poker.py info --help.
+
+Reflection Question: What did you learn about how to construct help commands for simulation tools?
+
+2. Explore the interactive command
+Create a list of five improvements you could make to the interactive simulation to make it more realistic.
+
+(Optional) Fork this repository and make your own improved version of the Poker simulator.
